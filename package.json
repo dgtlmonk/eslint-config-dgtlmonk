@@ -1,5 +1,5 @@
 {
-    "name": "@dgtlmonk/fe-configs",
+    "name": "@dgtlmonk/eslint-config",
     "version": "1.0.0",
     "description": "Shared TypeScript config for Perkd frontend projects",
     "license": "MIT",
