@@ -1,0 +1,23 @@
+{
+    "name": "@dgtlmonk/fe-configs",
+    "version": "1.0.0",
+    "description": "Shared TypeScript config for Perkd frontend projects",
+    "license": "MIT",
+    "repository": "@dgtlmonk/eslint-config",
+    "author": {
+        "name": "Joel Pablo",
+        "email": "joel@waveo.com"
+    },
+    "engines": {
+        "node": ">=12"
+    },
+    "dependencies": {
+        "eslint": "^8.11.0",
+        "eslint-plugin-react": "^7.29.4",
+        "@typescript-eslint/eslint-plugin": "^5.15.0",
+        "@typescript-eslint/parser": "^5.15.0"
+    },
+    "peerDependencies": {
+        "eslint": ">= 4"
+    }
+}
